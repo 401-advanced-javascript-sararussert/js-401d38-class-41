@@ -1,0 +1,23 @@
+{
+  "name": "js-401d38-class-41",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "expo-cli": "^4.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-sararussert/js-401d38-class-41.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-sararussert/js-401d38-class-41/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-sararussert/js-401d38-class-41#readme"
+}
